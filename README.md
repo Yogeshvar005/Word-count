@@ -25,6 +25,9 @@ Print the output
 
 ## PROGRAM:
 ```python
+#Program to find number of words
+#Developed by:Yogeshvar.M
+#RegisterNumber:22003358
 num = 0
 with open('MyFile.txt','r') as f1:
   for i in f1:
